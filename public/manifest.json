@@ -1,0 +1,17 @@
+{
+  "name": "Dictionnaire Encyclopédique",
+  "short_name": "Encyclopædia",
+  "description": "Dictionnaire encyclopédique francophone alimenté par l'IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f14",
+  "theme_color": "#3d2f70",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
